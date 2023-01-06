@@ -1,0 +1,2 @@
+"# week5HW"  initgit add README.mdgit commit -m "first commit"git branch -M maingit remote add origin https://github.com/dstevens2232/week5HW.gitgit push -u origin main
+"# week5HW"  initgit add README.mdgit commit -m "first commit"git branch -M maingit remote add origin https://github.com/dstevens2232/week5HW.gitgit push -u origin main
